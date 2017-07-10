@@ -2,7 +2,7 @@
 
 html {
   font-size: 10px;
-  background: url(images/octodrummer.jpg) bottom center;
+  background: url('../images/octodrummer.jpg') center;
   background-size: cover;
 }
 
